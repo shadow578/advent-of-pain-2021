@@ -1,17 +1,25 @@
 # ⚠ Spoiler Warning ⚠
 
-This repo contains 'solutions' to the in- progress Advent of Code 2021.
+This repo contains solutions to the in- progress Advent of Code 2021.
 
 <br>
 <br>
 
 
-# shadow578's (trashy) Advent of Code 2021
+# shadow578's (painful) Advent of Code 2021
 
-This repo containy my solutions to the [Advent of Code 2021](https://adventofcode.com/2021/), each day solved using a different high- tech technology. <br>
+This repo containy my solutions to the [Advent of Code 2021](https://adventofcode.com/2021/), each day solved using a different language (that i never used!). <br>
+So on each day, i have to essentially learn a new programming language. <br>
 If you want to see my boring (but probably more up to date) solutions to AoC21, take a look at [my solutions in Node.js](https://github.com/shadow578/AdventOfCode2021).  
 
 To run the solutions, see the README in each days directory
+
+
+## Note
+
+- Solutions are based on the algorithms from my [node.js AoC](https://github.com/shadow578/AdventOfCode2021)
+- Please excuse eventual low- effort solutions. I solved some puzzles in a (more) object- oriented way, and porting that to a different language often isn't that easy
+- This repo originally started as a joke, but it think the current concept is way better...
 
 
 ## License
@@ -29,8 +37,3 @@ To run the solutions, see the README in each days directory
 > WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or > implied.
 > See the License for the specific language governing permissions > and
 > limitations under the License.
-
-
-## Note
-
-this is a joke
